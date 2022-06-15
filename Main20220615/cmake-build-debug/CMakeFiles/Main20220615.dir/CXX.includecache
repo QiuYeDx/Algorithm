@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/baizihan/Documents/GitHub/Algorithm/Main20220615/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+algorithm
+-
+cstdio
+-
+cstdlib
+-
+
